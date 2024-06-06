@@ -1,6 +1,6 @@
 <div align=center>
 
-### 🌱 Hi, I’m lso 🌱
+### 😊 Hi, I’m Soyeon Lee 😊
 <div>
   <h5>📖충북대학교 사회교육과</h5>
   <h5>💻삼성 청년 SW 아카데미 11th 비전공 자바</h5>
@@ -24,11 +24,13 @@
       <img src="https://img.shields.io/badge/Eclipse-1572B6?style=flat-square&logo=eclipse&logoColor=white"> 
       
   </p>
-- 💞️ 
+<!-- - 💞️ 
 - 📫 
 - 😄 
-- ⚡
+- ⚡ -->
+<br>
 
+#### ✨ solved.ac ✨
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aprils401y)](https://solved.ac/aprils401y/)
 <!---
 lso401/lso401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
