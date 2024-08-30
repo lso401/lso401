@@ -11,6 +11,12 @@
 <p>
       <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/Javascript-fbb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <br>
+    <img src="https://img.shields.io/badge/Zustand-ecb63e?style=for-the-badge&logo=zustand"/></a>
+    <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
     <br>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
